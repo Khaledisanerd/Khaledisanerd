@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khaledisanerd
-- 👀 I’m interested in full stack developing 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning the basics
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Khaledmudasir@gmail.com
 
 <!---
